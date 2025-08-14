@@ -13,3 +13,5 @@ This project is the **first version** of my personal portfolio. It was created a
 ## 📌 Project Status
 Completed (Version 1) – created for learning purposes, with notes for future improvements
 
+## Screeen 
+![Demo](assets/Screenshot-portfolio.png)
