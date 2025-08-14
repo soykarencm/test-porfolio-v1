@@ -1,7 +1,6 @@
 # 🎨 Test Portfolio v1
 
-This project is the **first version** of my personal portfolio.  
-It was created as a practice exercise to strengthen my skills in **HTML** and **CSS**, focusing on building a clean layout and improving my visual styling techniques.
+This project is the **first version** of my personal portfolio. It was created as a practice exercise to strengthen my skills in **HTML** and **CSS**, focusing on building a clean layout and improving my visual styling techniques.
 
 ## 🚀 Features
 - Basic HTML and CSS structure
